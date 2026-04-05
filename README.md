@@ -25,23 +25,25 @@ All running **securely on AWS cloud ☁️**
 
 ---
 
-## 🏗️ **Architecture Overview**
+---
 
-This is not just a project — it’s how **real companies build scalable systems 🚀**
+## 🏗️ Architecture Overview
 
-📌 **Flow:**
-```text
+This is not just a project — it’s how real companies build scalable systems 🚀
+
+📌 Flow:
+
 User → Load Balancer → Web Tier → App Tier → Database (RDS)
 
 ---
 
 ---
 
-## ⚙️ **Step-by-Step Implementation **
+## ⚙️ **Step-by-Step Implementation**
 
 ---
 
-### 1️⃣ **Create VPC **
+### 1️⃣ **Create VPC**
 
 - Go to **VPC Dashboard**
 - Click **Create VPC**
