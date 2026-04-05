@@ -25,7 +25,6 @@ All running **securely on AWS cloud ☁️**
 
 ---
 
----
 
 ## 🏗️ Architecture Overview
 
@@ -37,7 +36,6 @@ User → Load Balancer → Web Tier → App Tier → Database (RDS)
 
 ---
 
----
 
 ## ⚙️ **Step-by-Step Implementation**
 
