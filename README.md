@@ -35,11 +35,13 @@ User → Load Balancer → Web Tier → App Tier → Database (RDS)
 
 ---
 
-## ⚙️ **Step-by-Step Implementation (Feynman Style)**
+---
+
+## ⚙️ **Step-by-Step Implementation **
 
 ---
 
-### 1️⃣ **Create VPC (Network Foundation)**
+### 1️⃣ **Create VPC **
 
 - Go to **VPC Dashboard**
 - Click **Create VPC**
